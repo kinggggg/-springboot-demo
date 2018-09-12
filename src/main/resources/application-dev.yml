@@ -1,0 +1,8 @@
+server:
+  port: 10003
+
+com:
+  autohome:
+    core:
+      baseUrl: http://localhost:10001/
+
