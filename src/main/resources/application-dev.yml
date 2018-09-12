@@ -1,4 +1,8 @@
 server:
-  port: 11003
+    port: 11003
 
-
+spring:
+    redis:
+        database: 0
+        host: localhost
+        port: 6379
